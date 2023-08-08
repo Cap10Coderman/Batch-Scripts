@@ -11,6 +11,10 @@ Configure an AWS CLI Profile in Local
 
 ### Step 2
 
-2.1 Copy the bat file to any location.
+Edit the txt file configure the profile and region and save it as .bat extension
 
-2.2 Double click the file to run.
+### Step 3
+
+3.1 Copy the bat file to any location.
+
+3.2 Double click the file to run.
